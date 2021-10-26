@@ -67,9 +67,9 @@ void main() {
       'type': 'circle',
       'radius': 5.0,
     },
-    {
-      'type': 'triangle',
-    },
+    // {
+    //   'type': 'triangle',
+    // },
   ];
   final shapes = shapesJson.map((shapeJson) => Shape.fromJson(shapeJson));
   shapes.forEach(printArea);
