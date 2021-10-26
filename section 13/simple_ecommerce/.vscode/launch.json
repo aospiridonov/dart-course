@@ -8,7 +8,7 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "checkout.dart"
+            "program": "bin/main.dart"
         },
     ]
 }
