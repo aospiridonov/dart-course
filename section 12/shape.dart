@@ -8,7 +8,7 @@ abstract class Shape {
   }
 }
 
-class Square implements Shape {
+class Square extends Shape {
   Square(this.side);
   final double side;
 

@@ -8,8 +8,14 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "shape.dart"
+            "program": "point.dart"
         },
+        // {
+        //     "name": "Dart",
+        //     "type": "dart",
+        //     "request": "launch",
+        //     "program": "shape.dart"
+        // },
         // {
         //     "name": "Dart",
         //     "type": "dart",
