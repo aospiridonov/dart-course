@@ -8,8 +8,14 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "stack.dart"
+            "program": "widget.dart"
         },
+        // {
+        //     "name": "Dart",
+        //     "type": "dart",
+        //     "request": "launch",
+        //     "program": "stack.dart"
+        // },
         // {
         //     "name": "Dart",
         //     "type": "dart",
